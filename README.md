@@ -50,7 +50,7 @@ git clone git@github.com:agostinhodev/php5.6-apache-mysql-using-docker.git
 3. Change directory:
 
 ```bash
-cd php5.6-apache-mysql-using-dockerg
+cd php5.6-apache-mysql-using-docker
 ```
 
 4. Run it using docker-compose
